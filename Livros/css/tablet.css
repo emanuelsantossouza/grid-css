@@ -1,0 +1,7 @@
+.livros
+{
+    display: grid;
+    grid-template-columns:auto auto;
+    grid-template-rows: repeat(12fr);
+    gap: 20px;
+}

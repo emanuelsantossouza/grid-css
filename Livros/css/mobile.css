@@ -1,0 +1,7 @@
+.guitarras
+{ 
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: repeat(12fr);
+    gap: 20px;
+}
